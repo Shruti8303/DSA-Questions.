@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0843-binary-trees-with-factors](https://github.com/Shruti8303/DSA-Questions./tree/master/0843-binary-trees-with-factors) |
+## Design
+|  |
+| ------- |
+| [1955-seat-reservation-manager](https://github.com/Shruti8303/DSA-Questions./tree/master/1955-seat-reservation-manager) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1955-seat-reservation-manager](https://github.com/Shruti8303/DSA-Questions./tree/master/1955-seat-reservation-manager) |
 <!---LeetCode Topics End-->
