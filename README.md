@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shruti8303/DSA-Questions./tree/master/0056-merge-intervals) |
 | [0843-binary-trees-with-factors](https://github.com/Shruti8303/DSA-Questions./tree/master/0843-binary-trees-with-factors) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shruti8303/DSA-Questions./tree/master/0056-merge-intervals) |
 | [0843-binary-trees-with-factors](https://github.com/Shruti8303/DSA-Questions./tree/master/0843-binary-trees-with-factors) |
 ## Design
 |  |
