@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shruti8303/DSA-Questions./tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shruti8303/DSA-Questions./tree/master/0056-merge-intervals) |
 | [0843-binary-trees-with-factors](https://github.com/Shruti8303/DSA-Questions./tree/master/0843-binary-trees-with-factors) |
 ## Hash Table
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1955-seat-reservation-manager](https://github.com/Shruti8303/DSA-Questions./tree/master/1955-seat-reservation-manager) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shruti8303/DSA-Questions./tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shruti8303/DSA-Questions./tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
