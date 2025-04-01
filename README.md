@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shruti8303/DSA-Questions./tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shruti8303/DSA-Questions./tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Shruti8303/DSA-Questions./tree/master/0078-subsets) |
 | [0843-binary-trees-with-factors](https://github.com/Shruti8303/DSA-Questions./tree/master/0843-binary-trees-with-factors) |
 ## Hash Table
 |  |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shruti8303/DSA-Questions./tree/master/0637-average-of-levels-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shruti8303/DSA-Questions./tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shruti8303/DSA-Questions./tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
